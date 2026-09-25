@@ -2,7 +2,6 @@
 :---:
 
 <img src="images/itsme.jpg" alt="Avatar" width="200" />
-:---:
 
 **Студент**: Антонов Гордей
 :---:
